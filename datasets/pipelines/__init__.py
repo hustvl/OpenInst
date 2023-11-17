@@ -1,0 +1,1 @@
+from .copypaste import CopyPaste
